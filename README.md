@@ -1,4 +1,4 @@
-# G2-Quiz-Website
+# G4-Quiz-Website
  
 ### Welcome to Jobs Quizzes, the go-to destination for job seekers looking to test their knowledge and sharpen their skills in a variety of industries. Our platform offers a wide range of quizzes designed to help you prepare for interviews, evaluate your expertise, and identify areas for improvement.
 
@@ -23,6 +23,6 @@ At Jobs Quizzes, we believe that knowledge is power, and we're committed to help
 + Css
 + JavaScript
 
->* In order to check the website design kindly visit [this link](https://www.figma.com/file/PK9tOtqsghSAykNPmkqY4e/Quiz-Website?node-id=0-1&t=Ekg00MLJrODRRYdG-0)
+>* In order to check the website design kindly visit [this link](https://www.figma.com/file/PK9tOtqsghSAykNPmkqY4e/Quiz-Website?node-id=0-1&t=Ekg00MLJrODRRYdG-0) or [this link](https://github.com/Group-4-Quiz-Website/G4-Quiz-Website.git)
 
 # Thank You
