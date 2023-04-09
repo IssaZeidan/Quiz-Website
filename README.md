@@ -8,7 +8,7 @@ Our quizzes are created by experts in their respective fields and are designed t
 
 At Jobs Quizzes, we believe that knowledge is power, and we're committed to helping job seekers succeed in their career aspirations.
 
-# Out Team
+# Our Team
 
 + Mr. Amro
 + Mr. Abdulrahman
