@@ -1,4 +1,4 @@
-# G4-Quiz-Website
+# Quiz-Website
  
 ### Welcome to Jobs Quizzes, the go-to destination for job seekers looking to test their knowledge and sharpen their skills in a variety of industries. Our platform offers a wide range of quizzes designed to help you prepare for interviews, evaluate your expertise, and identify areas for improvement.
 
