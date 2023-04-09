@@ -1,5 +1,4 @@
-# Quiz-Website
- 
+# Quizes4Jobs
 ### Welcome to Jobs Quizzes, the go-to destination for job seekers looking to test their knowledge and sharpen their skills in a variety of industries. Our platform offers a wide range of quizzes designed to help you prepare for interviews, evaluate your expertise, and identify areas for improvement.
 
 We understand that finding the right job can be a daunting task, and it's important to stand out from the competition. That's why we've created a comprehensive library of quizzes that cover everything from technical skills to industry-specific knowledge.
@@ -15,6 +14,7 @@ At Jobs Quizzes, we believe that knowledge is power, and we're committed to help
 + Ms. Wesam
 + Ms. Farah
 + Mr. Mohammad
++ Mr. Issa
 
 # Website created by:
 
@@ -22,7 +22,15 @@ At Jobs Quizzes, we believe that knowledge is power, and we're committed to help
 + Html
 + Css
 + JavaScript
++ trillo
++ fonwAwesome
++ VS code
++ Bootstrap
 
->* In order to check the website design kindly visit [this link](https://www.figma.com/file/PK9tOtqsghSAykNPmkqY4e/Quiz-Website?node-id=0-1&t=Ekg00MLJrODRRYdG-0) or [this link](https://github.com/Group-4-Quiz-Website/G4-Quiz-Website.git)
+>* In order to check the website design kindly visit [this link](https://www.figma.com/file/01KIUS6NMMtCpUNXnc12SY/Quiz-Project?node-id=37-764&t=SKxRpDyo9d2I1iFE-0)
 
-# Thank You
+# liveURL :
+[quiz4jobs](https://group-4-quiz-website.github.io/G4-Quiz-Website/)
+
+# Trillo link:
+[trillo link](https://trello.com/b/pUsDDPlh/group-4-quiz-webbsite)
